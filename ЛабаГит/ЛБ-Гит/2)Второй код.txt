@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+World of Tanks ?! 	',:/
+
+<<<<<<< HEAD
+Изменил это файл и запушил на вторую ветку.
+=======
+Изменил это файл и запушил на вторую ветку :)
+
+o_O
+>>>>>>> refs/remotes/origin/master
+=======
+World of Tanks ?! 	',:/
+>>>>>>> parent of c5a9ad5 (Пятый push.)
+=======
+World of Tanks ?! 	',:/
+>>>>>>> parent of c5a9ad5 (Пятый push.)
