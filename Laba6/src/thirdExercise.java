@@ -7,7 +7,7 @@ public class thirdExercise {
         Product product1 = new Product("Ice Cream", 89, 5);
         Product product2 = new Product("Milk", 112, 2);
         Product product3 = new Product("Cheese", 215, 1);
-        Product product4 = new Product("Russkaya-Vodka", 2399, 4);
+        Product product4 = new Product("Творог", 2399, 4);
         Product product5 = new Product("Energos", 10000, 1);
 
         Stack stack = new Stack(Product.countOfObject);
@@ -24,7 +24,6 @@ public class thirdExercise {
         System.out.println("Список проданных товаров: " + stack.getList());
         System.out.println("Общая сумма продаж: " + stack.getTotalPrice());
         System.out.println("Наиболее популярный товар: " + stack.getPopular());
-        System.out.println("\nЕЕЕЕЕЕЕЕЕ русская водка рулит :D");
     }
 
     public static class Product {
